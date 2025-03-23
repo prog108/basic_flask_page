@@ -14,6 +14,8 @@ REQUIREMENTS:
 
  Besides installing python, you should install Flask web application framework as well:
  > > pip install Flask
+>  
+>  
 > > In terminal or cmd navigate to the folder where your main program, app.py is, or in my case inputpolje.py and run
 > > the program by typing: python "your_program_name.py". Press Enter.
 > > The url will show up in your terminal. Copy it to the browser.
