@@ -13,7 +13,7 @@
 REQUIREMENTS:
 
  Besides installing python, you should install Flask web application framework as well:
- > > pip install Flask
+ > > pip install Flask - in cmd if you use Windows
 >  
 >  
 > > In terminal or cmd navigate to the folder where your main program, app.py is, or in my case inputpolje.py and run
